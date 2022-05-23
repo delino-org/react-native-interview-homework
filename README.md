@@ -19,8 +19,5 @@ Here is our fake setting for the exercise:
 We are building a new application around Online Food Ordering. The goal of the assignment is to create a searchable list on a page. Once user types at least 3 character the list will be searched and filtered by the word on search input. The word must be searched amongst both Title and Ingredients.
 Here you can find the [Demo](https://www.figma.com/proto/0ZwzpQPbGjXONo4I7bYilt/ReactNative-Task?page-id=0%3A1&node-id=0%3A1&viewport=366%2C117%2C0.56&scaling=scale-down) of what we expected to be delivered.
 
-### Data
-Please source the contacts from the User's phonebook. Since we are using expo, this should be very straightforward - see [Contacts Documentation](https://docs.expo.io/versions/latest/sdk/contacts.html) - please retrieve phone numbers, emails, and URLs for each contact. We have also placed two icons in the `./assets/icons` to be used for favorited and unfavorited states on the contact page.
-
 ### Screens
 ![image](https://user-images.githubusercontent.com/546552/169763697-d64bd994-cbac-4250-856f-856ba7340d13.png)
